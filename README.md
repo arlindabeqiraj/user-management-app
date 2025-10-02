@@ -30,7 +30,7 @@ A modern, professional React application for managing users with a clean and int
 ✅ **Add User** - Local-only user creation with validation  
 ✅ **Sorting** - Sort by name, email, or company  
 ✅ **Redux** - State management with update/delete functionality  
-✅ **Responsive** - Mobile-friendly design  
+✅ **Responsive** - Mobile-friendly design
 
 ## 🎨 UI Features
 
@@ -44,28 +44,32 @@ A modern, professional React application for managing users with a clean and int
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - Node.js (v14 or higher)
 - npm or yarn
 
 ### Installation
 
 1. Clone the repository:
+
 ```bash
 git clone <repository-url>
 cd user-management-app
 ```
 
 2. Install dependencies:
+
 ```bash
 npm install
 ```
 
 3. Start the development server:
+
 ```bash
 npm start
 ```
 
-4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+4. Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
 
 ### Build for Production
 
@@ -95,21 +99,25 @@ src/
 ## 🔧 Key Features Implementation
 
 ### State Management
+
 - Redux Toolkit for centralized state
 - Async thunks for API calls
 - Local storage integration
 
 ### Form Handling
+
 - Custom validation hooks
 - Real-time error display
 - Optimized re-renders
 
 ### UI/UX
+
 - Consistent design system
 - Accessible components
 - Mobile-first responsive design
 
 ### Performance
+
 - Memoized components
 - Optimized bundle size
 - Efficient state updates
