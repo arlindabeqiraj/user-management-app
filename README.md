@@ -114,10 +114,3 @@ src/
 - Optimized bundle size
 - Efficient state updates
 
-## 📧 Contact
-
-For questions about this implementation, please contact: office@linkplus-it.com
-
-## 📄 License
-
-This project is created as part of a coding challenge for LinkPlus IT.
